@@ -1,0 +1,11 @@
+com/example/helloworld/HelloWorldServiceStub.class
+com/example/helloworld/HelloWorldServiceCallbackHandler.class
+com/example/helloworld/HelloWorldService.class
+com/example/helloworld/HelloWorldServiceStub$SayHello.class
+com/example/helloworld/HelloWorldServiceStub$ExtensionMapper.class
+com/example/helloworld/HelloWorldServiceImpl.class
+com/example/helloworld/HelloWorldServiceStub$SayHello$Factory.class
+com/example/helloworld/HelloWorldServiceStub$SayHelloResponse$Factory.class
+com/example/helloworld/HelloWorldServiceStub$SayHelloResponse.class
+com/example/helloworld/HelloWorldServiceStub$1.class
+com/example/helloworld/HelloWorldClient.class
